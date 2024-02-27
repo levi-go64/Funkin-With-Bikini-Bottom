@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pimpbob.png">
+<SubTexture name="Pimpin neutral0000" x="0" y="0" width="422" height="211" frameX="-19" frameY="-11" frameWidth="460" frameHeight="248" />
+<SubTexture name="Pimpin lose0000" x="0" y="211" width="422" height="211" frameX="-19" frameY="-11" frameWidth="460" frameHeight="248" />
+<SubTexture name="fbf neutral0000" x="422" y="0" width="212" height="211" frameX="-19" frameY="-11" frameWidth="460" frameHeight="248" />
+<SubTexture name="fbf lose0000" x="422" y="211" width="212" height="211" frameX="-20" frameY="-10" frameWidth="460" frameHeight="248" />
+</TextureAtlas>

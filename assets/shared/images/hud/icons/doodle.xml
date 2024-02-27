@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="doodle.png">
+<SubTexture name="fbf neutral0000" x="427" y="0" width="212" height="211" frameX="-19" frameY="-11" frameWidth="259" frameHeight="248" />
+<SubTexture name="fbf lose0000" x="0" y="220" width="212" height="211" frameX="-20" frameY="-11" frameWidth="259" frameHeight="248" />
+<SubTexture name="doodlebob neutral0000" x="212" y="220" width="422" height="211" frameX="-19" frameY="-11" frameWidth="463" frameHeight="248" />
+<SubTexture name="doodlebob altneutral0000" x="0" y="0" width="427" height="220" frameX="-15" frameY="-2" frameWidth="463" frameHeight="248" />
+<SubTexture name="doodlebob lose0000" x="639" y="0" width="425" height="211" frameX="-18" frameY="-11" frameWidth="463" frameHeight="248" />
+</TextureAtlas>
