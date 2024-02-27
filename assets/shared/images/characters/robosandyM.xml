@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="robosandyM.png">
+	<SubTexture name="robosandy idle0000" x="1063" y="0" width="297" height="434" frameX="-105" frameY="-21" frameWidth="502" frameHeight="455" />
+	<SubTexture name="robosandy down0000" x="0" y="875" width="282" height="316" frameX="-113" frameY="-139" frameWidth="502" frameHeight="455" />
+	<SubTexture name="robosandy down0001" x="1063" y="434" width="292" height="318" frameX="-100" frameY="-137" frameWidth="502" frameHeight="455" />
+	<SubTexture name="robosandy left0000" x="643" y="436" width="308" height="424" frameX="-77" frameY="-31" frameWidth="502" frameHeight="455" />
+	<SubTexture name="robosandy left0001" x="325" y="436" width="317" height="432" frameX="-79" frameY="-24" frameWidth="502" frameHeight="455" />
+	<SubTexture name="robosandy right0000" x="371" y="0" width="357" height="434" frameX="-125" frameY="-22" frameWidth="502" frameHeight="455" />
+	<SubTexture name="robosandy right0001" x="0" y="0" width="371" height="436" frameX="-99" frameY="-19" frameWidth="502" frameHeight="455" />
+	<SubTexture name="robosandy angry up0000" x="0" y="436" width="325" height="438" frameX="-59" frameY="-17" frameWidth="502" frameHeight="455" />
+	<SubTexture name="robosandy angry up0001" x="728" y="0" width="334" height="434" frameX="-57" frameY="-21" frameWidth="502" frameHeight="455" />
+</TextureAtlas>
