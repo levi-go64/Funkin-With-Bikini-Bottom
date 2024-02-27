@@ -1,0 +1,11 @@
+{
+	
+	"image": "BG",
+	"position": [
+		165,
+		100
+	],
+	"scale": 1,
+	"idle_anim": "BG",
+	"confirm_anim": "BG"
+}

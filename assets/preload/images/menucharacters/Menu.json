@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu",
+	"position": [
+		15,
+		-250
+	],
+	"scale": 1,
+	"idle_anim": "Conf",
+	"confirm_anim": "Con"
+}

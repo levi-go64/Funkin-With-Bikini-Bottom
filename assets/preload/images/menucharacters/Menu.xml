@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu.png">
+<SubTexture name="Conf0000" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0000" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0001" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0002" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0003" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0004" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0005" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0006" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0007" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0008" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0009" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0010" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0011" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0012" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0013" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0014" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0015" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0016" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0017" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0018" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0019" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0020" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0021" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0022" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0023" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0024" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0025" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0026" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0027" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0028" x="0" y="0" width="1" height="1"/>
+<SubTexture name="Con0029" x="0" y="0" width="426" height="141"/>
+<SubTexture name="Con0030" x="0" y="0" width="426" height="141"/>
+</TextureAtlas>
