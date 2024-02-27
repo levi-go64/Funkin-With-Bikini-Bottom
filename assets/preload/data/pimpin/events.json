@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "pimpin",
+		"player1": "bf",
+		"player2": "pimpbob",
+		"player3": null,
+		"events": [
+			[
+				4540.54054054054,
+				[
+					[
+						"Play Animation",
+						"money2",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GF_BOAT",
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "pimpin"
+	}
+}
