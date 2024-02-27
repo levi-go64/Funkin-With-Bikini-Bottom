@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "robosandy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "robosandy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "robosandy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "robosandy angry up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "robosandy right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robosandyM",
+	"position": [
+		-15,
+		100
+	],
+	"healthicon": "sandia con chile",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

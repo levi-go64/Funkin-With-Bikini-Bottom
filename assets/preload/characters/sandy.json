@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "robosandy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "robosandy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "robosandy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "robosandy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "robosandy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "robosandy angry down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "robosandy angry idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "robosandy angry left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "robosandy angry right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "robosandy angry up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sandia",
+			"indices": [],
+			"name": "robosandy taunt"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sandia-con-chile",
+			"indices": [],
+			"name": "robosandy whoop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robosandy",
+	"position": [
+		-15,
+		100
+	],
+	"healthicon": "sandia con chile",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
