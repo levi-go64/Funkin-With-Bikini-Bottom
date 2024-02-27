@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "Sandi",
+		"player1": "bf-small",
+		"player2": "sandy",
+		"player3": null,
+		"events": [
+			[
+				9333.33333333333,
+				[
+					[
+						"Play Animation",
+						"sandia",
+						"dad "
+					]
+				]
+			],
+			[
+				117666.666666667,
+				[
+					[
+						"Play Animation",
+						"sandia-con-chile",
+						"dad"
+					]
+				]
+			],
+			[
+				154666.666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sandyMAD"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "MermaidGF Kecil",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "nuts-and-bolts"
+	}
+}
