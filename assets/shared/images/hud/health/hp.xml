@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hp.png">
+<SubTexture name="hp full0000" x="0" y="0" width="175" height="51" frameX="0" frameY="0" frameWidth="175" frameHeight="51" />
+<SubTexture name="hp almostfull0000" x="0" y="51" width="156" height="50" frameX="0" frameY="0" frameWidth="175" frameHeight="51" />
+<SubTexture name="hp semifull0000" x="0" y="101" width="138" height="49" frameX="-2" frameY="0" frameWidth="175" frameHeight="51" />
+<SubTexture name="hp idle0000" x="175" y="0" width="119" height="49" frameX="0" frameY="0" frameWidth="175" frameHeight="51" />
+<SubTexture name="hp halffull0000" x="0" y="150" width="128" height="49" frameX="-1" frameY="0" frameWidth="175" frameHeight="51" />
+<SubTexture name="hp half0000" x="128" y="150" width="128" height="49" frameX="0" frameY="0" frameWidth="175" frameHeight="51" />
+<SubTexture name="hp almosthalf0000" x="175" y="49" width="119" height="49" frameX="0" frameY="0" frameWidth="175" frameHeight="51" />
+<SubTexture name="hp semihalf0000" x="175" y="98" width="38" height="49" frameX="0" frameY="0" frameWidth="175" frameHeight="51" />
+<SubTexture name="hp dead0000" x="213" y="98" width="19" height="49" frameX="0" frameY="0" frameWidth="175" frameHeight="51" />
+</TextureAtlas>
