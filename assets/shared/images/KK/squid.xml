@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="squid.png">
+<SubTexture name="squid bop0000" x="480" y="0" width="174" height="464" frameX="-3" frameY="-9" frameWidth="177" frameHeight="473" />
+<SubTexture name="squid bop0001" x="318" y="0" width="162" height="467" frameX="-6" frameY="-6" frameWidth="177" frameHeight="473" />
+<SubTexture name="squid bop0002" x="158" y="0" width="160" height="469" frameX="-7" frameY="-4" frameWidth="177" frameHeight="473" />
+<SubTexture name="squid bop0003" x="0" y="0" width="158" height="473" frameX="-8" frameY="0" frameWidth="177" frameHeight="473" />
+</TextureAtlas>

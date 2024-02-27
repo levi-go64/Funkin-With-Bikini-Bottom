@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zleft.png">
+<SubTexture name="zleft bop0000" x="950" y="0" width="500" height="452" frameX="-2" frameY="-20" frameWidth="512" frameHeight="475" />
+<SubTexture name="zleft bop0001" x="0" y="475" width="490" height="458" frameX="-6" frameY="-14" frameWidth="512" frameHeight="475" />
+<SubTexture name="zleft bop0002" x="0" y="0" width="480" height="475" frameX="-12" frameY="0" frameWidth="512" frameHeight="475" />
+<SubTexture name="zleft bop0003" x="480" y="0" width="470" height="475" frameX="-9" frameY="0" frameWidth="512" frameHeight="475" />
+</TextureAtlas>

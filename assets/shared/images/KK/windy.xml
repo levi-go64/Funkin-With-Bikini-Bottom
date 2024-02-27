@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="windy.png">
+<SubTexture name="windy bop0000" x="0" y="300" width="298" height="295" frameX="-1" frameY="-6" frameWidth="300" frameHeight="304" />
+<SubTexture name="windy bop0001" x="292" y="0" width="296" height="297" frameX="-2" frameY="-4" frameWidth="300" frameHeight="304" />
+<SubTexture name="windy bop0002" x="588" y="0" width="294" height="297" frameX="-3" frameY="-4" frameWidth="300" frameHeight="304" />
+<SubTexture name="windy bop0003" x="0" y="0" width="292" height="300" frameX="-4" frameY="-2" frameWidth="300" frameHeight="304" />
+</TextureAtlas>
