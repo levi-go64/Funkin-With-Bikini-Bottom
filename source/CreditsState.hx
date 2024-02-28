@@ -81,9 +81,12 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
+			['FFBB Port'],
+			['LG64', 'levi', 'Ported Mod To Apk Port', 'https://youtube.com/@levirealxd2?si=GCu9RJMKO3qWiFi-', '5C00FF'],
+			['laztrix', 'laztrix', 'Zip Port', 'https://youtube.com/@Laztrix?si=sSPbHjIWKk-Wvj-3', 'FFFFFF'],
+			['M.R.F', 'MRF', 'Optimized', 'https://youtube.com/@For_MRF?si=LmmkwTIJ-gM7GsGV', '00FF6F'],
 			['Android Port'],
-			['LG64', 'levi', 'Hi I ported the mod again', 'https://youtube.com/@levirealxd2?si=GCu9RJMKO3qWiFi-', '5C00FF'],
-			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@idklool121', 'FFFFFF'],
+			['idklool', 'nothing', 'PE 0.6.3 Apk Porter', 'https://youtube.com/@idklool121', 'FFFFFF'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
